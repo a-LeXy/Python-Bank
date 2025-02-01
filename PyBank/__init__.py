@@ -11,8 +11,11 @@ class Bank:
         self.bank_name = bank_name
         self.archive = []
     def register_employee(self, person):
+        for existing_person in self.archive:
+            if person.cnp == existing_person.cnp:
+                print("Error: Existing Person can't be added")
+                return
         self.archive.append(person)
-
     def unregister_employee(self, cnp):
         for p in self.archive:
             if p.cnp == cnp:
@@ -20,4 +23,7 @@ class Bank:
 
     def print_all_employee(self):
         for i in self.archive:
-            print(f"{i.print_details()} \n")
+            i.print_details()
+
+
+
