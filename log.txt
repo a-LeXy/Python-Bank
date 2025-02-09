@@ -1,0 +1,222 @@
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Nume: Popescu Prenume: Ion CNP 1234567890123
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Nume: Ionescu Prenume: Maria CNP 9876543210987
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Nume: Vasilescu Prenume: Ion CNP 456789123
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Nume: Georgescu Prenume: Elena CNP 321654987
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Nume: Mihaescu Prenume: Marin CNP 654987321
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+ERROR:root:Error: Existing Person can't be added
+ERROR:root:Register Employee Failed!
+INFO:root:Nume: Mihaescu Prenume: Marin CNP 654987321
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee
+INFO:root:Urmeaza sa inregistrez un employee
+INFO:root:Check Employee in progress
+INFO:root:Check Job in progress
+INFO:root:Check Job Succes!
+INFO:root:Check Employee in progress
+INFO:root:Am reusit sa inregistrez un employee

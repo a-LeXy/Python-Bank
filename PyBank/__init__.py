@@ -1,3 +1,4 @@
+import logging
 from enum import Enum
 
 class JobPerm(Enum):
@@ -20,15 +21,13 @@ class Utilitati:
         print(f"| {text}" + " " * numar_spatii_goale + "|")
         print("-" * lunigme_baner)
 
-
-
 class Person:
     def __init__(self, nume , prenume, cnp):
         self.nume = nume
         self.prenume = prenume
         self.cnp = cnp
     def print_details(self):
-        print(f"Nume: {self.nume} Prenume: {self.prenume} CNP {self.cnp}")
+        logging.info(f"Nume: {self.nume} Prenume: {self.prenume} CNP {self.cnp}")
 
 class Employee(Person):
     def __init__(self, nume , prenume, cnp, job):
@@ -36,10 +35,7 @@ class Employee(Person):
         self.job = job
 
     def print_my_job(self):
-        print(f"Jobul acestui angajat este: {self.job}")
-
-
-
+        logging.info(f"Jobul acestui angajat este: {self.job}")
 
 class Bank:
     def __init__(self, bank_name):
@@ -49,25 +45,33 @@ class Bank:
                                JobPerm.Secretar, JobPerm.Asistenta, JobPerm.Doctor, JobPerm.Mecanic]
 
     def check_jobs(self,employee):
+        logging.info("Check Job in progress")
         if employee.job in self.jobs_available:
+            logging.info("Check Job Succes!")
             return True
         else:
+            logging.error(f"Job not available {empolyee.job}")
             return False
-            Utilitati.print_banner(f"Job not available {empolyee.job}")
 
     def check_employee(self,employee):
+        logging.info("Check Employee in progress")
         if not self.check_jobs(employee):
             return False
+            logging.error("Check Employee Failed!")
         for existing_person in self.archive:
             if employee.cnp == existing_person.cnp:
-                Utilitati.print_banner("Error: Existing Person can't be added")
+                logging.error("Error: Existing Person can't be added")
                 return False
+        logging.info("Check Employee in progress")
         return True
 
-
     def register_employee(self,employee):
+        logging.info("Urmeaza sa inregistrez un employee")
         if self.check_employee(employee):
             self.archive.append(employee)
+            logging.info("Am reusit sa inregistrez un employee")
+        else:
+            logging.error("Register Employee Failed!")
 
     def unregister_employee(self, cnp):
         for p in self.archive:
@@ -77,9 +81,7 @@ class Bank:
     def print_all_employee(self):
         for i in self.archive:
             i.print_details()
-
-
-
-
-
-
+    def generate_report(self):
+        for p in self.archive:
+            with open("Raport.txt", 'a') as file:
+                file.write(f"{p.nume},{p.prenume},{p.cnp},{p.job} \n")
